@@ -3,6 +3,8 @@ import 'package:confetti/confetti.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+const String kAppVersion = "HELLO NEW VERSION";
+
 void main() => runApp(const MyApp());
 
 const Color kDeepPink = Color(0xFFC2185B);
